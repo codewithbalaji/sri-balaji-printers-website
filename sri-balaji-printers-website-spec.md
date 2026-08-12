@@ -89,7 +89,11 @@ Useful to explain briefly on the site — customers often don't know the differe
 
 ---
 
-## 7. Info to Confirm With Client Before Building
+## 7. Website Theme
+
+- CMYK COLOR
+
+## 8. Info to Confirm With Client Before Building
 
 - [ ] Exact establishment year (for "Since 20XX") - 2001
 - [ ] Owner/proprietor name (for About section, trust signal) Dhanasekaran V In Printing field more than 25 years 

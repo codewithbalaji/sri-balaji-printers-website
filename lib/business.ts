@@ -1,0 +1,31 @@
+export const business = {
+  name: "Sri Balaji Printers",
+  tagline: "Commercial Printing Press",
+  phoneDisplay: "+91 97907 33655",
+  phoneHref: "tel:+919790733655",
+  whatsappHref: "https://wa.me/919790733655",
+  email: "info@sribalajiprinters.in",
+  instagram: "https://instagram.com/sribalajiprinters_chennai",
+  addressLines: [
+    "No. 11B, South Park Street, Venkatapuram,",
+    "Ambattur, Chennai – 600053",
+  ],
+  addressLandmark: "Opp. Vijaya Bank & Naturals",
+  hours: "Open daily · 9:00 AM – 9:00 PM",
+  mapsHref: "https://maps.google.com/?q=No.+11B+South+Park+Street+Venkatapuram+Ambattur+Chennai+600053",
+  yearsInBusiness: "25+ years",
+  since: "Since 2001",
+  rating: {
+    value: "4.6",
+    outOf: "5",
+    count: 3,
+    source: "Justdial",
+  },
+  nav: [
+    { href: "/", label: "Home" },
+    { href: "/about", label: "About" },
+    { href: "/services", label: "Services" },
+    { href: "/gallery", label: "Gallery" },
+    { href: "/contact", label: "Contact" },
+  ],
+} as const;
